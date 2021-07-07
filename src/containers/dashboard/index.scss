@@ -1,0 +1,13 @@
+@import '../../scss/variable';
+
+.wrap {
+    color: $wrap-color;
+    background-color:$wrap-background;
+    min-height: $wrap-height;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.form {
+    width: 30%;
+}
